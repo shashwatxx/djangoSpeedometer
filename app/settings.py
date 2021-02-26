@@ -25,7 +25,7 @@ SECRET_KEY = 'o$%$$7qw3bltimza&(j!l1_b*z5pu(x&ici=n#o(ew68jozy7='
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['http://speedspeedometer-env.eba-nxgi69vs.ap-south-1.elasticbeanstalk.com/']
 
 
 # Application definition
